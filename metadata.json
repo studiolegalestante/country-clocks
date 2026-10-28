@@ -1,0 +1,11 @@
+{
+  "uuid": "country-clocks@vincenzostante",
+  "name": "Country Clocks in Top Bar",
+  "description": "Shows the time of other countries in the top bar, next to the system clock, each with its country code (e.g. ITA, THA, CUB) and the same date/time format as the system clock. Add, remove and reorder countries from the preferences.\n\nMostra nella barra superiore l'ora di altri Paesi accanto all'orologio di sistema, con la sigla del Paese e lo stesso formato di data e ora. Paesi configurabili dalle impostazioni.",
+  "shell-version": [
+    "50"
+  ],
+  "settings-schema": "org.gnome.shell.extensions.country-clocks",
+  "version-name": "1.0",
+  "url": "https://github.com/studiolegalestante/country-clocks"
+}

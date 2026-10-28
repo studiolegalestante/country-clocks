@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.country-clocks" path="/org/gnome/shell/extensions/country-clocks/">
+    <key name="local-label" type="s">
+      <default>'ITA'</default>
+      <summary>Sigla dell'orologio principale</summary>
+    </key>
+    <key name="clocks" type="as">
+      <default>['THA|Asia/Bangkok']</default>
+      <summary>Altri orologi (sigla|fuso orario)</summary>
+    </key>
+  </schema>
+</schemalist>
