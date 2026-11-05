@@ -33,4 +33,4 @@ Estensione per GNOME Shell che mostra nella barra superiore l'ora di altri Paesi
 
 ## License
 
-GPL-2.0-or-later — © 2026 Vincenzo Stante
+GPL-2.0-or-later — © 2026 [Vincenzo Stante](https://www.studiolegalestante.it/), lawyer in Bari, Italy
